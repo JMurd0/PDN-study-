@@ -18,7 +18,7 @@ As described in the Hippokratia paper [1], 'The prosthetic disc nucleus (PDN) de
 
 Paper 1 - 
 
-paper analysed: 
+paper analysed: https://journals.lww.com/spinejournal/fulltext/2003/00001/prosthetic_disc_nucleus__pdn__replacement_for.4.aspx
 
 In the first paper looked at, the researchers looked assessing the clinical efficacy of the prosthetic disc nucleus (PDN) for treatment of lumbar disc herniation. I looked at what implications there were between implantation of the PDN at the Lumbar 4 - Lumbar 5 area compared to the Lumbar 5 - Sciatic 1 area. However, i realised there were many limitations with this paper, and so the analysis was mostly just practicing what i would do for the data in the second paper. This analysis can be found in the repository under the name, 'height_change.ipynb'.
 
