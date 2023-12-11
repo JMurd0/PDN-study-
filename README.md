@@ -18,9 +18,13 @@ As described in the Hippokratia paper [1], 'The prosthetic disc nucleus (PDN) de
 
 Paper 1 - 
 
+paper analysed: 
+
 In the first paper looked at, the researchers looked assessing the clinical efficacy of the prosthetic disc nucleus (PDN) for treatment of lumbar disc herniation. I looked at what implications there were between implantation of the PDN at the Lumbar 4 - Lumbar 5 area compared to the Lumbar 5 - Sciatic 1 area. However, i realised there were many limitations with this paper, and so the analysis was mostly just practicing what i would do for the data in the second paper. This analysis can be found in the repository under the name, 'height_change.ipynb'.
 
  Paper 2 - 
+
+paper analysed:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2943355/
 
  In the second paper, they research into the long-term outcome after implantation of prosthetic disc nucleus device (PDN) in lumbar disc disease. When reading through the paper I came across the table below, I saw that intuitively that it looked like after the implantation of the PDN, the range of motion (ROM) decreased whilst the change in height after implantation increased. I became curious to see if these two variables did in fact impact one another. 
 
